@@ -5,9 +5,12 @@
 # 👋 Hi, I'm Dang Cong Tung
 
 ### 🎓 Information Technology Student at VKU
-### 💻 Full-stack Learner | Java Developer | Android Developer | AI Integration
 
-<img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=00C4FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Web+%7C+Backend+%7C+Java+%7C+Android+%7C+Socket+%7C+AI;I+love+building+real-world+applications;Learn.+Build.+Improve." />
+### 💻 Full-Stack & Android Developer in Progress
+
+### ☕ Java · 🌐 Web · ⚙️ Backend · 📱 Android · 🔌 Socket · 🤖 AI · 🗄️ Database
+
+<img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2800&color=00C4FF&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Kotlin+%7C+Android+%7C+Jetpack+Compose+%7C+Firebase;Socket+Programming+%7C+REST+API+%7C+Database;Building+AI-powered+applications;Learn.+Build.+Improve." />
 
 <br/>
 
@@ -29,25 +32,33 @@
 
 I'm an **Information Technology student at Vietnam - Korea University of Information and Communication Technology (VKU)**.
 
-I enjoy exploring different areas of software development instead of limiting myself to only one technology.
+I enjoy exploring different areas of software development instead of limiting myself to a single technology.
 
-I have worked on projects involving:
+I learn best by building real projects and experimenting with different technologies.
 
-- 🌐 Frontend & Web Development
+My current interests include:
+
+- 🌐 Frontend Development
 - ⚙️ Backend Development
-- ☕ Java Desktop Applications
-- 🔌 Socket Programming
 - 📱 Android Development
+- ☕ Java Desktop Applications
+- 🔌 Network & Socket Programming
 - 🤖 AI Integration
+- 🔥 Firebase & Cloud Services
 - 🗄️ Database Design & Management
+- 🔗 REST API Development
 
-I especially enjoy turning ideas into practical applications and continuously learning new technologies through real projects.
+I enjoy turning ideas into practical applications and continuously improving my skills through hands-on development.
 
-### 🎯 My Goal
+### 🎯 Goal
 
-Become a versatile software developer who can understand and build complete applications from frontend to backend, database, mobile and intelligent features.
+Become a versatile software developer who can understand and build complete applications from:
+
+**Frontend → Backend → Database → Mobile → Real-time Communication → AI**
 
 ---
+
+# 🛠 Tech Stack
 
 ## 💻 Programming Languages
 
@@ -56,44 +67,119 @@ Become a versatile software developer who can understand and build complete appl
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
-
-### 🌐 Web & Database
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 🛠 Frameworks & Technologies
+## 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket-Programming-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
 </p>
 
-### 🔧 Development Tools
+---
+
+## 📱 Android Development
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+---
+
+## 🔥 Firebase & Cloud Services
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 🤖 AI Integration
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Integration-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Chatbot-5C2D91?style=for-the-badge" />
+</p>
+
+---
+
+## 🔌 Network & Desktop Development
+
+<p>
+  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Socket-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client--Server-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Client-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real--time-Communication-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 🧰 Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
+
+---
+
+# 🧩 Development Areas
+
+- 🌐 **Web Development** — React, Node.js, Spring Boot, Laravel
+- ⚙️ **Backend Development** — Spring Boot, Node.js, Express.js, REST API
+- 📱 **Android Development** — Kotlin, Jetpack Compose, MVVM
+- 🔥 **Cloud Services** — Firebase Authentication, Cloud Firestore
+- 🗄️ **Database** — MySQL, SQL, Room, Firestore
+- 🔌 **Network Programming** — Java Socket, Client/Server, Multi-client
+- 🖥️ **Desktop Development** — Java Swing
+- 🤖 **AI Integration** — AI Chatbot, Gemini API, AI-assisted learning
+- 🔧 **Version Control** — Git, GitHub
 
 ---
 
@@ -103,13 +189,18 @@ Become a versatile software developer who can understand and build complete appl
 
 🔗 [GitHub Repository](https://github.com/dangcongtung2402/doancoso4)
 
-A full-stack fashion e-commerce application built with **Node.js and React**.
+A full-stack fashion e-commerce application developed with **Node.js and React**.
 
-The project combines traditional e-commerce functionality with **AI-powered chat and real-time Socket communication**.
+The system combines traditional online shopping features with **AI-powered chat and real-time Socket communication**.
 
 ### ⚙️ Technologies
 
-`Node.js` `React` `JavaScript` `Database` `Socket` `AI`
+`Node.js`
+`React`
+`JavaScript`
+`Database`
+`Socket`
+`AI`
 
 ### ✨ Main Features
 
@@ -119,7 +210,7 @@ The project combines traditional e-commerce functionality with **AI-powered chat
 - Ordering system
 - User authentication
 - Account management
-- AI-powered chat support
+- AI-powered chatbot
 - Real-time Socket communication
 - Admin management
 - Client-server architecture
@@ -130,13 +221,20 @@ The project combines traditional e-commerce functionality with **AI-powered chat
 
 🔗 [GitHub Repository](https://github.com/dangcongtung2402/nihongoweb)
 
-A **personal Japanese-learning project** developed with **Java and Spring Boot**.
+A personal Japanese-learning web application developed using **Java and Spring Boot**.
 
 Instead of building only a traditional vocabulary-learning website, NihongoWeb explores a more interactive approach by integrating **AI into the learning process**.
 
 ### ⚙️ Technologies
 
-`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript` `AI`
+`Java`
+`Spring Boot`
+`MySQL`
+`REST API`
+`HTML`
+`CSS`
+`JavaScript`
+`AI Integration`
 
 ### ✨ Main Features
 
@@ -150,7 +248,7 @@ Instead of building only a traditional vocabulary-learning website, NihongoWeb e
 - Learning-content management
 - Database-driven architecture
 
-> 💡 This is a personal project focused on exploring how AI can create a more interactive Japanese-learning experience.
+> 💡 A personal project focused on exploring how AI can create a more interactive and personalized Japanese-learning experience.
 
 ---
 
@@ -160,16 +258,20 @@ Instead of building only a traditional vocabulary-learning website, NihongoWeb e
 
 A desktop quiz game inspired by **Who Wants to Be a Millionaire**, developed using **Java Swing**.
 
-The project also applies **Java Socket programming** to support communication between the server and multiple clients.
+The project also applies **Java Socket Programming** to create communication between a server and multiple clients.
 
 ### ⚙️ Technologies
 
-`Java` `Java Swing` `Java Socket` `Database`
+`Java`
+`Java Swing`
+`Java Socket`
+`Database`
+`Client / Server`
 
 ### ✨ Main Features
 
 - Multiple-choice questions
-- Millionaire-style game interface
+- Millionaire-style interface
 - Question management
 - Score management
 - Lifeline system
@@ -186,43 +288,57 @@ The project also applies **Java Socket programming** to support communication be
 
 An Android application developed with **Kotlin** to support English learning.
 
+The application focuses on providing an interactive mobile learning experience and supporting self-study.
+
 ### ⚙️ Technologies
 
-`Kotlin` `Android`
+`Kotlin`
+`Android`
+`Jetpack Compose`
+`MVVM`
+`Room`
+`Firebase Authentication`
+`Cloud Firestore`
+`Coroutines`
+`Flow`
 
 ### ✨ Main Features
 
 - English vocabulary learning
-- Learning exercises
-- Interactive activities
+- Interactive learning exercises
 - Mobile learning experience
+- Learning progress management
+- Local data storage
+- Firebase authentication
+- Cloud data synchronization
 - Self-study support
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Spring Boot
-- Laravel
-- REST API Development
-- React & Node.js
-- Database Optimization
-- Android Development
-- Socket Programming
-- AI Integration
-- Git Workflow
-
----
-
-## 🌍 Languages
-
-- 🇻🇳 Vietnamese — Native
-- 🇬🇧 English — Learning
-- 🇯🇵 Japanese — Learning
+- ☕ Spring Boot
+- 🌐 React & Node.js
+- 🔗 REST API Development
+- 📱 Android Development
+- 🧩 Jetpack Compose
+- 🔥 Firebase
+- 🗄️ Database Optimization
+- 🔌 Socket Programming
+- 🤖 AI Integration
+- 🌿 Git Workflow
 
 ---
 
-## 📊 GitHub Activity
+# 🌍 Languages
+
+- 🇻🇳 **Vietnamese** — Native
+- 🇬🇧 **English** — Learning
+- 🇯🇵 **Japanese** — Learning
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -231,13 +347,18 @@ An Android application developed with **Kotlin** to support English learning.
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangcongtung2402&theme=tokyonight" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dangcongtung2402&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dangcongtung2402&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 📫 Contact Me
+# 📫 Contact Me
 
 <p>
   <a href="https://github.com/dangcongtung2402">
@@ -259,25 +380,29 @@ An Android application developed with **Kotlin** to support English learning.
 
 私は **Vietnam - Korea University of Information and Communication Technology（VKU）** で情報技術を学んでいる学生です。
 
-一つの技術だけに限定せず、さまざまな分野のソフトウェア開発を学ぶことに興味があります。
+一つの技術だけに限定せず、さまざまな分野のソフトウェア開発に興味があります。
 
-これまで、以下の分野を使ったプロジェクトに取り組んできました。
+実際にアプリケーションを作りながら新しい技術を学ぶことが好きです。
+
+現在、以下の分野を中心に学習・開発しています。
 
 - 🌐 Web・フロントエンド開発
 - ⚙️ バックエンド開発
-- ☕ Javaデスクトップアプリ開発
-- 🔌 Socket通信
 - 📱 Androidアプリ開発
+- ☕ Javaデスクトップアプリ開発
+- 🔌 Socket・ネットワークプログラミング
 - 🤖 AI機能の統合
+- 🔥 Firebase・クラウドサービス
 - 🗄️ データベース設計・管理
-
-実際にプロジェクトを作りながら、新しい技術を学ぶことが好きです。
+- 🔗 REST API開発
 
 ### 🎯 目標
 
-フロントエンド、バックエンド、データベース、モバイル、AIなど幅広い技術を理解し、実用的なシステムを開発できるエンジニアになることです。
+フロントエンド、バックエンド、データベース、モバイル、リアルタイム通信、AIなど幅広い技術を理解し、実用的なシステムを開発できるエンジニアになることです。
 
 ---
+
+# 🛠 技術スタック
 
 ## 💻 プログラミング言語
 
@@ -286,30 +411,74 @@ An Android application developed with **Kotlin** to support English learning.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
-
-### 🌐 Web・データベース
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 🛠 フレームワーク・技術
+## 🌐 フロントエンド
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ バックエンド
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+</p>
+
+---
+
+## 📱 Android開発
+
+<p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket-Programming-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+---
+
+## 🔥 Firebase
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 🗄️ データベース
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 🤖 AI
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Integration-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Chatbot-5C2D91?style=for-the-badge" />
 </p>
 
 ---
@@ -326,7 +495,12 @@ An Android application developed with **Kotlin** to support English learning.
 
 ### 使用技術
 
-`Node.js` `React` `JavaScript` `Database` `Socket` `AI`
+`Node.js`
+`React`
+`JavaScript`
+`Database`
+`Socket`
+`AI`
 
 ### 主な機能
 
@@ -349,11 +523,18 @@ An Android application developed with **Kotlin** to support English learning.
 
 **JavaとSpring Boot**を使用して開発している個人制作の日本語学習Webアプリケーションです。
 
-一般的な単語学習サイトだけではなく、**AIを学習プロセスに取り入れたインタラクティブな日本語学習環境**を目指しています。
+一般的な単語学習サイトだけではなく、**AIを活用したインタラクティブな学習環境**を目指しています。
 
 ### 使用技術
 
-`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript` `AI`
+`Java`
+`Spring Boot`
+`MySQL`
+`REST API`
+`HTML`
+`CSS`
+`JavaScript`
+`AI`
 
 ### 主な機能
 
@@ -381,7 +562,10 @@ An Android application developed with **Kotlin** to support English learning.
 
 ### 使用技術
 
-`Java` `Java Swing` `Java Socket` `Database`
+`Java`
+`Java Swing`
+`Java Socket`
+`Database`
 
 ### 主な機能
 
@@ -405,14 +589,25 @@ An Android application developed with **Kotlin** to support English learning.
 
 ### 使用技術
 
-`Kotlin` `Android`
+`Kotlin`
+`Android`
+`Jetpack Compose`
+`MVVM`
+`Room`
+`Firebase Authentication`
+`Cloud Firestore`
+`Coroutines`
+`Flow`
 
 ### 主な機能
 
 - 英単語学習
 - 英語練習問題
 - インタラクティブ学習
-- モバイル学習
+- 学習進捗管理
+- ローカルデータ保存
+- Firebase認証
+- クラウドデータ同期
 - 自主学習支援
 
 ---
@@ -420,11 +615,12 @@ An Android application developed with **Kotlin** to support English learning.
 ## 🌱 現在学習中
 
 - Spring Boot
-- Laravel
-- REST API
 - React / Node.js
-- データベース最適化
+- REST API
 - Android開発
+- Jetpack Compose
+- Firebase
+- データベース最適化
 - Socket Programming
 - AI Integration
 - Git Workflow
@@ -449,23 +645,29 @@ Tôi là sinh viên ngành **Công nghệ Thông tin tại Trường Đại họ
 
 Tôi thích khám phá nhiều mảng khác nhau của phát triển phần mềm thay vì chỉ giới hạn bản thân trong một công nghệ.
 
-Các lĩnh vực tôi đã và đang tìm hiểu thông qua những dự án thực tế gồm:
+Tôi thường học công nghệ mới bằng cách trực tiếp xây dựng các dự án và thử nghiệm chúng trong những bài toán thực tế.
 
-- 🌐 Frontend & Web Development
+Các lĩnh vực tôi đang quan tâm gồm:
+
+- 🌐 Phát triển Web & Frontend
 - ⚙️ Backend Development
+- 📱 Android Development
 - ☕ Ứng dụng Desktop bằng Java
-- 🔌 Lập trình Socket
-- 📱 Phát triển ứng dụng Android
+- 🔌 Lập trình mạng & Socket
 - 🤖 Tích hợp AI
-- 🗄️ Thiết kế và quản lý cơ sở dữ liệu
-
-Tôi thích học công nghệ mới bằng cách trực tiếp xây dựng sản phẩm và giải quyết các bài toán thực tế.
+- 🔥 Firebase & Cloud Services
+- 🗄️ Cơ sở dữ liệu
+- 🔗 REST API
 
 ### 🎯 Mục tiêu
 
-Trở thành một lập trình viên đa năng, có khả năng hiểu và xây dựng một hệ thống hoàn chỉnh từ Frontend, Backend, Database, Mobile cho đến các tính năng AI.
+Trở thành một lập trình viên đa năng, có khả năng hiểu và xây dựng hệ thống hoàn chỉnh từ:
+
+**Frontend → Backend → Database → Mobile → Real-time → AI**
 
 ---
+
+# 🛠 Công nghệ
 
 ## 💻 Ngôn ngữ lập trình
 
@@ -474,31 +676,101 @@ Trở thành một lập trình viên đa năng, có khả năng hiểu và xây
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
-
-### 🌐 Web & Cơ sở dữ liệu
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 🛠 Framework & Công nghệ
+## 🌐 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket-Programming-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
 </p>
+
+---
+
+## 📱 Android
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+---
+
+## 🔥 Firebase
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase%20Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 🤖 AI
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Integration-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Chatbot-5C2D91?style=for-the-badge" />
+</p>
+
+---
+
+## 🔌 Network & Desktop
+
+<p>
+  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Socket-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client--Server-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Client-4CAF50?style=for-the-badge" />
+</p>
+
+---
+
+# 🧩 Các mảng phát triển
+
+- 🌐 **Web Development** — React, Node.js, Spring Boot, Laravel
+- ⚙️ **Backend Development** — Spring Boot, Express.js, REST API
+- 📱 **Android Development** — Kotlin, Jetpack Compose, MVVM
+- 🔥 **Cloud** — Firebase Authentication, Cloud Firestore
+- 🗄️ **Database** — MySQL, SQL, Room, Firestore
+- 🔌 **Network Programming** — Java Socket, Client/Server, Multi-client
+- 🖥️ **Desktop Development** — Java Swing
+- 🤖 **AI Integration** — AI Chatbot, Gemini API
+- 🔧 **Version Control** — Git, GitHub
 
 ---
 
@@ -512,20 +784,26 @@ Website bán hàng thời trang Full-stack được phát triển bằng **Node.
 
 Ngoài các chức năng thương mại điện tử thông thường, hệ thống còn tích hợp **AI Chat và giao tiếp thời gian thực bằng Socket**.
 
-### Công nghệ
+### ⚙️ Công nghệ
 
-`Node.js` `React` `JavaScript` `Database` `Socket` `AI`
+`Node.js`
+`React`
+`JavaScript`
+`Database`
+`Socket`
+`AI`
 
-### Chức năng chính
+### ✨ Chức năng chính
 
 - Xem sản phẩm thời trang
 - Quản lý sản phẩm
 - Giỏ hàng
 - Đặt hàng
-- Đăng nhập và quản lý tài khoản
+- Đăng nhập
+- Quản lý tài khoản
 - AI Chat
-- Giao tiếp thời gian thực bằng Socket
-- Hệ thống quản trị
+- Socket real-time
+- Quản trị hệ thống
 - Kiến trúc Client / Server
 
 ---
@@ -536,25 +814,32 @@ Ngoài các chức năng thương mại điện tử thông thường, hệ th�
 
 Đây là **project cá nhân** về học tiếng Nhật được phát triển bằng **Java và Spring Boot**.
 
-Mục tiêu của dự án không chỉ là tạo một website học từ vựng thông thường mà còn thử nghiệm cách sử dụng **AI để tạo trải nghiệm học tiếng Nhật tương tác và cá nhân hóa hơn**.
+Mục tiêu không chỉ là xây dựng một website học từ vựng thông thường mà còn thử nghiệm **AI để hỗ trợ việc học tiếng Nhật theo hướng tương tác và cá nhân hóa hơn**.
 
-### Công nghệ
+### ⚙️ Công nghệ
 
-`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript` `AI`
+`Java`
+`Spring Boot`
+`MySQL`
+`REST API`
+`HTML`
+`CSS`
+`JavaScript`
+`AI`
 
-### Chức năng chính
+### ✨ Chức năng chính
 
 - Học từ vựng tiếng Nhật
 - Học ngữ pháp
 - Luyện đọc
 - Bài tập tương tác
-- Nội dung học theo chủ đề
-- Hỗ trợ học tập bằng AI
+- Học theo chủ đề
+- Hỗ trợ học bằng AI
 - Cá nhân hóa việc học
 - Quản lý nội dung học
-- Lưu trữ dữ liệu bằng cơ sở dữ liệu
+- Quản lý dữ liệu bằng Database
 
-> 💡 Đây là project cá nhân nhằm nghiên cứu và thử nghiệm cách AI có thể hỗ trợ quá trình học tiếng Nhật theo hướng khác với các website học truyền thống.
+> 💡 Đây là project cá nhân nhằm nghiên cứu và thử nghiệm cách AI có thể tạo ra trải nghiệm học tiếng Nhật khác với các website học truyền thống.
 
 ---
 
@@ -564,23 +849,27 @@ Mục tiêu của dự án không chỉ là tạo một website học từ vựn
 
 Game trắc nghiệm **Ai Là Triệu Phú** được phát triển bằng **Java Swing**.
 
-Dự án còn sử dụng **Java Socket** để xây dựng khả năng giao tiếp giữa Server và nhiều Client.
+Dự án sử dụng **Java Socket** để xây dựng khả năng giao tiếp giữa Server và nhiều Client.
 
-### Công nghệ
+### ⚙️ Công nghệ
 
-`Java` `Java Swing` `Java Socket` `Database`
+`Java`
+`Java Swing`
+`Java Socket`
+`Database`
+`Client / Server`
 
-### Chức năng chính
+### ✨ Chức năng chính
 
 - Hệ thống câu hỏi trắc nghiệm
 - Giao diện Ai Là Triệu Phú
 - Quản lý câu hỏi
 - Quản lý điểm
 - Các quyền trợ giúp
-- Chế độ chơi 2 người
-- Giao tiếp bằng Socket
+- Chế độ 2 người chơi
+- Giao tiếp Socket
 - Server hỗ trợ nhiều Client
-- Mô hình Client / Server
+- Kiến trúc Client / Server
 
 ---
 
@@ -590,43 +879,55 @@ Dự án còn sử dụng **Java Socket** để xây dựng khả năng giao ti�
 
 Ứng dụng Android hỗ trợ học tiếng Anh được phát triển bằng **Kotlin**.
 
-### Công nghệ
+### ⚙️ Công nghệ
 
-`Kotlin` `Android`
+`Kotlin`
+`Android`
+`Jetpack Compose`
+`MVVM`
+`Room`
+`Firebase Authentication`
+`Cloud Firestore`
+`Coroutines`
+`Flow`
 
-### Chức năng chính
+### ✨ Chức năng chính
 
 - Học từ vựng tiếng Anh
 - Bài tập luyện tập
 - Hoạt động học tương tác
-- Học tập trên thiết bị di động
+- Theo dõi tiến độ
+- Lưu dữ liệu cục bộ
+- Firebase Authentication
+- Đồng bộ dữ liệu Cloud Firestore
 - Hỗ trợ tự học
 
 ---
 
-## 🌱 Đang học và phát triển
+# 🌱 Đang học và phát triển
 
-- Spring Boot
-- Laravel
-- REST API
-- React & Node.js
-- Database Optimization
-- Android Development
-- Socket Programming
-- AI Integration
-- Git Workflow
-
----
-
-## 🌍 Ngoại ngữ
-
-- 🇻🇳 Tiếng Việt — Bản ngữ
-- 🇬🇧 Tiếng Anh — Đang học
-- 🇯🇵 Tiếng Nhật — Đang học
+- ☕ Spring Boot
+- 🌐 React & Node.js
+- 🔗 REST API
+- 📱 Android Development
+- 🧩 Jetpack Compose
+- 🔥 Firebase
+- 🗄️ Database Optimization
+- 🔌 Socket Programming
+- 🤖 AI Integration
+- 🌿 Git Workflow
 
 ---
 
-## 📊 GitHub Activity
+# 🌍 Ngoại ngữ
+
+- 🇻🇳 **Tiếng Việt** — Bản ngữ
+- 🇬🇧 **Tiếng Anh** — Đang học
+- 🇯🇵 **Tiếng Nhật** — Đang học
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -638,11 +939,15 @@ Dự án còn sử dụng **Java Socket** để xây dựng khả năng giao ti�
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dangcongtung2402&theme=tokyonight" />
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dangcongtung2402&theme=tokyonight" />
+
 </div>
 
 ---
 
-## 📫 Liên hệ
+# 📫 Liên hệ
 
 <p>
   <a href="https://github.com/dangcongtung2402">
@@ -658,9 +963,9 @@ Dự án còn sử dụng **Java Socket** để xây dựng khả năng giao ti�
 
 <div align="center">
 
-## ⭐ Always learning, building and improving.
+## ⭐ Always Learning. Always Building. Always Improving.
 
-### 🌐 Web · ⚙️ Backend · ☕ Java · 🔌 Socket · 📱 Android · 🤖 AI
+### 🌐 Web · ⚙️ Backend · ☕ Java · 📱 Android · 🔌 Socket · 🤖 AI · 🔥 Firebase · 🗄️ Database
 
 ### 🚀 Learn. Build. Improve.
 
